@@ -31,28 +31,28 @@ This is a system for vehicle registration in FTSM. Users can register vehicles, 
 
 <table>
      <tr>
-         <td><img src="Ss/Login.png"></td>
+         <td><img src="Screenshots/Login.png"></td>
      </tr>
       <tr>
-         <td><img src="Ss/MainPage.png"></td>
+         <td><img src="Screenshots/CreateNewAcc.png"></td>
       </tr>
       <tr>
-         <td><img src="Ss/AddProduct.png"></td>
+         <td><img src="Screenshots/ParkVehicle.png"></td>
       </tr>
       <tr>
-         <td><img src="Ss/CustomerList.png"></td>
+         <td><img src="Screenshots/RegisterVehicle.png"></td>
       </tr>
       <tr>
-         <td><img src="Ss/ProductDetail.png"></td>
+         <td><img src="Screenshots/ParkingHistory.png"></td>
       </tr>
       <tr>
-         <td><img src="Ss/SearchProduct.png"></td>
+         <td><img src="Screenshots/ParkingHistory.png"></td>
       </tr> 
       <tr>
-         <td><img src="Ss/CreateOrder.png"></td>
+         <td><img src="Screenshots/RegistrationHistory.png"></td>
       </tr>
       <tr>
-         <td><img src="Ss/GenerateInvoice.png"></td>
+         <td><img src="Screenshots/AppointStaff.png"></td>
       </tr>
 </table>
 
