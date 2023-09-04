@@ -54,9 +54,12 @@ This is a system for vehicle registration in FTSM. Users can register vehicles, 
       <tr>
          <td><img src="Screenshots/AppointStaff.png"></td>
       </tr>
+      <tr>
+         <td><img src="Screenshots/OutputFile.png"></td>
+      </tr>
 </table>
 
 # Weaknesses
 1. User might get confused regarding the reset button in PARK VEHICLE tab. If they reset the wrong button, it can lead to multiple vehicles being parked at the same spot. 
 2. Both tables in PARKING HISTORY and REGISTRATION HISTORY tabs are easily editable which can cause some information to be altered.
-3. Both tables in PARKING HISTORY and REGISTRATION HISTORY tabs don’t keep the information that is added in for too long. Especially when you change 
+3. Both tables in PARKING HISTORY and REGISTRATION HISTORY tabs don’t keep the information that is added in for too long. Especially when you change parking lot types and then go back to the table. However, you can still see the saved information in the file ParkingLot.txt and Regiter.txt.
