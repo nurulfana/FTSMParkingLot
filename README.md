@@ -56,3 +56,7 @@ This is a system for vehicle registration in FTSM. Users can register vehicles, 
       </tr>
 </table>
 
+# Weaknesses
+1. User might get confused regarding the reset button in PARK VEHICLE tab. If they reset the wrong button, it can lead to multiple vehicles being parked at the same spot. 
+2. Both tables in PARKING HISTORY and REGISTRATION HISTORY tabs are easily editable which can cause some information to be altered.
+3. Both tables in PARKING HISTORY and REGISTRATION HISTORY tabs don’t keep the information that is added in for too long. Especially when you change 
